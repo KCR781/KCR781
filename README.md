@@ -17,20 +17,39 @@
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  -->
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  </a>
+  <a href="https://hibernate.org/">
+    <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate" alt="Hibernate"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <!-- <a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+</a>
+-->
+</p>
+
 </p>
 
 ---
