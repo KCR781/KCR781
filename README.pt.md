@@ -22,7 +22,7 @@
 
 ---
 
-## 🧰 Stack Tecnológica
+## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://www.oracle.com/java/">
