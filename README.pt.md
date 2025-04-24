@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="README.md">Versão original em inglês</a>
+  🔗 <a href="README.md">English Version</a>
 </p>
 
 # 👋 Olá, eu sou o Kauã
