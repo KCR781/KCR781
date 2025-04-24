@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/7a92e4e0-9136-42d6-8312-5317070dc08b" alt="Header" />
 </p>
 <p align="center">
-  🌐 <a href="README.pt.md">Versão em Português</a>
+  🔗 <a href="README.pt.md">Versão em Português</a>
 </p>
 
 # 👋 Hi, I'm Kauã
